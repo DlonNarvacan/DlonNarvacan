@@ -1,8 +1,8 @@
 Hi, I’m @DlonNarvacan (Arnold M. Narvacan)
-I’m interested in Java, Python and Javascript Programming.
-I’m currently learning ReactJS and Firebase Stack
-I know Java,C++,Python and Javascript Programming.
-Email me in (bignetnarvacan@yahoo.com/bignetnarvacan@gmail.com)
+I have experience in UI/UX Design and Frontend Web Development using HTML/CSS, Javascript, and React
+Design Tools: Figmaa and Framer
+I’m interested in Javascript, Python and Java Programming.
+Email me in (arnoldnarvacan28@gmail.com)
 
 <!---
 DlonNarvacan/DlonNarvacan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
